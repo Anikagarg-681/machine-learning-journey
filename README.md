@@ -1,6 +1,6 @@
 # Machine Learning Journey
 
-This repository documents my Machine Learning learning journey as a B.Tech CSE (AI/ML) student.
+This repository documents my Machine Learning learning journey
 
 ## Objectives
 - Build strong ML fundamentals
