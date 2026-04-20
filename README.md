@@ -5,7 +5,6 @@ This repository documents my Machine Learning learning journey
 ## Objectives
 - Build strong ML fundamentals
 - Implement algorithms from scratch
-- Complete Andrew Ng's Machine Learning Specialization
 - Apply concepts to real datasets
 - Maintain structured documentation of progress
 
